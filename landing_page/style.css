@@ -1,0 +1,48 @@
+body {
+    /* font-family: 'Asap Condensed', sans-serif; */
+    /* font-weight: 400; */
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 42pt;
+    font-family: 'Solway', serif;
+    vertical-align: middle;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 16pt;
+    margin: 24px 0px;
+}
+
+.main-logo {
+    margin-top: 50px;
+    width: 100px;
+}
+
+.btn {
+    padding: 5px;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+    font-weight: 900;
+    box-shadow: 4px 4px 0px rgba(0,0,0,0.3);;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    box-shadow: 3px 3px 0px rgba(0,0,0,0.3);
+}
+
+.btn:focus {
+    box-shadow: 1px 1px 0px rgba(0,0,0,0.3);
+}
+
+p {
+    width: 500px;
+    margin: 24px auto;
+}
